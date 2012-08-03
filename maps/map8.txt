@@ -1,0 +1,11 @@
+# Map 8
+                                                                 
+                                                           o     o
+      o  oo   @                 @                    o      o    o
+      I  II  II       o o o o        o o o       o     o      o 
+    I                 IIIIIII      IIIIIII       o     o         2
+    I                                             o        2
+    I            44               2                  EF
+                 EF                                 EGD
+ &      EF  1    CD       1           1            EGAD   3 *
+BBBBBBBBGHBBBBBBBGHBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBGAAHBBBBBBBBBBB

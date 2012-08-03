@@ -1,0 +1,10 @@
+# Map 2
+     I                ooo@ooo      ooo~ooo    3         oo
+     I                IIIIIII  @   IIIIIII           @ 3   o 3  
+     I              o          o                     II     o
+        oo       o o           o  2        4         
+            o o  EF  o                 o  EF         3
+        EF  4 1  CD o 1   2   o       1  EGD o 2  o  EBF o
+BBBBBBBBGHBBBBBBBGHBBBBF o  o EF   o   EGAAD 1   4   CGHF o  *
+AAAAAAAAAAAAAAAAAAAAAAAD 1 4  CD 4 1 EGAAAAHBBBBBBBBBGAAHBBBBBBBB
+AAAAAAAAAAAAAAAAAAAAAAAHBBBBBBGHBBBBBGAAAAAAAAAAAAAAAAAAAAAAAAAAA

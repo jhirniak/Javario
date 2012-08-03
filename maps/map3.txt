@@ -1,0 +1,13 @@
+# Map 3
+BF                          444444I                         CD                                 ooC
+AD                    444444IIIIII                          CD                                 ooC
+AD                  IIIIIIII                              2 CD                                 ooC
+AD                II                                 2      oo   2      o                      ooC
+AD              II                               oooooooo   oo   2   II   2              2     EBA
+AD           o o          2          oo          IIIIIIII   EB             o                   CAA
+AD         o         2       2oooo   II  2 I     2 1        CD              o    2             CAA
+AD        o    EF    ooooo    IIII               2 1        oo   2  oooo   oooo                CAA
+AD             CD    IIIII                       IIIIIIII   oo   2  IIII   IIII    EF        2 CAA
+AD      I      CD                                           EB                  2 EAD          CAA
+AD  1  EBF  1  CD   1         1 EF  1    1   CD  4   4   4  CAF     4          4 EAAD 1  4   * CAA
+AHBBBBBGAHBBBBBGHBBBBBBBBBBBBBBBGHBBBBBBBBBBBGHBBBBBBBBBBBBBGAHBBBBBBBBBBBBBBBBBBGAAHBBBBBBBBBBGAA

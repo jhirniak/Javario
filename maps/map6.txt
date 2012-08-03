@@ -1,0 +1,11 @@
+# Map 6
+                                                                 
+                                                           o     o
+                                                     o      o    o
+                       o o o        o@o o       o     o      o 
+       I@oI    o o    IIIIIII      IIIIIII       o     o         2
+     2 IIII  o                           I        o        2
+                  o               2           3      EF
+                 EF    o  o   o               3     EGD
+ &      EF  1  4 CD  4    1  EFo33@EF 1       3    EGAD     *
+BBBBBBBBGHBBBBBBBGHBBBBBBBBBBGHBBBBGHBBBBBBBBBBBBBBGAAHBBBBBBBBBBB

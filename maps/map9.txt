@@ -1,0 +1,12 @@
+# Map 9
+BF                             EB
+AD                             CA
+AD                             CA
+AD                             CA
+AD                             CA
+AD                             CA
+AD                             CA
+AD                             CA
+AD                             CA
+AD ~~~~@      ^               *CA
+AHBBBBBBBBBBBBBBBBBBBBBBBBBBBBBHA

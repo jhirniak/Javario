@@ -1,0 +1,12 @@
+# Map 7
+BF          o o o                o o o o o o o o o o o o o o o o o o o o o o o                EB
+AD    I    IIIIIII              IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII               CA
+AD    III               o o o                I                   EBBBBBBBBBBBBBF     o o o o  CA
+AD    I I              IIIIIII               I                   CAAAAAAAAAAAAAD    o o o o o CA
+AD    III                                    I             o o   CAAAAAAAAAAAAAHF    o o o o  CA
+AD                    2   !        2                      IIIII  CAAAAAAAAAAAAAAD   o o o o o CA
+AD                      IIIII                                    CIIIIIIIIIIIIIIHFIIIIIIIIIIIICA
+AI         III                          1    1  1        2            o o o     o           2 CA
+D                   4   4     1      IIIIIIIIIIIII                 o2        3         o o 2  CA
+D&      1       EBBBBBBBBBBBBBBBF     o o o o o o                CBBBBBBBBBBBBBBBBD o o4o  *  CA
+HBBBBBBBBBBBBBBBGAAAAAAAAAAAAAAAHBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBGAAAAAAAAAAAAAAAAHBBBBBBBBBBBGA

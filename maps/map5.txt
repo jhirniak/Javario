@@ -1,0 +1,12 @@
+# Map 5
+BF          ooooo                o o o o o o o o o o o o o o o o o o o o o o o                EB
+AD         IIIIIII              IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII               CA
+AD       @          ~   o o o                I                   EBBBBBBBBBBBBBF     o o o o  CA
+AD      III            IIIIIII               I                   CAAAAAAAAAAAAAD    o o o o o CA
+AD      II                                   I             o o   CAAAAAAAAAAAAAHF    o o o o  CA
+AD      I             2   !        2                      IIIII  CAAAAAAAAAAAAAAD   o o o o o CA
+AD                      IIIII                                    CAAAAAAAAAAAAAAHF   IIIIIII  CA
+DI         III                          1    1  1        2       CAAAAAAAAAAAAAAAD  o o o o o CA
+D               1    1        1      IIIIIIIIIIIII               CAAAAAAAAAAAAAAAHF  o o o o  CA
+D&      1    4  EBBBBBBBBBBBBBBBF     o o o o o o            3 * CAAAAAAAAAAAAAAAAD o o o o o CA
+HBBBBBBBBBBBBBBBGAAAAAAAAAAAAAAAHBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBGAAAAAAAAAAAAAAAAHBBBBBBBBBBBGA
